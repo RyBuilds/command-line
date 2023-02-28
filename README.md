@@ -1,7 +1,7 @@
 # Command Line
 
 <details>
-<summary>### Why master the command line?</summary>
+<summary> ### Why master the command line? </summary>
 </details>
 
 <details>
