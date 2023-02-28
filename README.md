@@ -1,6 +1,8 @@
 # Command Line
 
-#### Why master the command line?
+<details>
+<summary>### Why master the command line?</summary>
+</details>
 
 <details>
 <summary>More control over your machine</summary>
